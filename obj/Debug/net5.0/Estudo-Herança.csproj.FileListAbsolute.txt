@@ -1,0 +1,16 @@
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\Estudo-Herança.exe
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\Estudo-Herança.deps.json
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\Estudo-Herança.runtimeconfig.json
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\Estudo-Herança.runtimeconfig.dev.json
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\Estudo-Herança.dll
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\ref\Estudo-Herança.dll
+C:\Users\wagne\Projetos\Estudo-Herança\bin\Debug\net5.0\Estudo-Herança.pdb
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.csproj.AssemblyReference.cache
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.AssemblyInfoInputs.cache
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.AssemblyInfo.cs
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.dll
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\ref\Estudo-Herança.dll
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.pdb
+C:\Users\wagne\Projetos\Estudo-Herança\obj\Debug\net5.0\Estudo-Herança.genruntimeconfig.cache
